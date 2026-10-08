@@ -6,7 +6,7 @@ Interactive Excel Data Analytics Project
 
 ## Project Preview
 
-![Project Preview](dashboard-image.png)
+![Project Preview](dashboard-image.png.png)
 
 ## Project Overview
 
