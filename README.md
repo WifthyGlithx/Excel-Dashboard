@@ -18,7 +18,7 @@ The project started with a structured dataset, followed by data preparation, ana
 
 ### Source Data
 
-[Source Data](data.xlsx)
+[Source Data](data.xlsx.xlsx)
 
 ## Dashboard Features
 
@@ -46,7 +46,7 @@ The project started with a structured dataset, followed by data preparation, ana
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-[Download the Excel Dashboard](excel-dashboard.xlsx)
+[Download the Excel Dashboard](excel-dashboard.xlsx.xlsx)
 
 ## Tools and Skills
 
