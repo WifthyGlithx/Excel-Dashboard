@@ -39,8 +39,6 @@ The project started with a structured dataset, followed by data preparation, ana
 | `data.xlsx` | Preview of the source data |
 | `README.md` | Project documentation |
 
-> Replace the example file names with the exact names used in your repository.
-
 ## How to Download and Use
 
 1. Download `excel-dashboard.xlsx`.
@@ -49,8 +47,6 @@ The project started with a structured dataset, followed by data preparation, ana
 4. Use the available filters and slicers to explore the results.
 
 [Download the Excel Dashboard](excel-dashboard.xlsx)
-
-> GitHub may not open or preview Excel files in every browser. Downloading the workbook and opening it in Microsoft Excel is the safest option.
 
 ## Tools and Skills
 
